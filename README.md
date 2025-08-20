@@ -1,1 +1,1 @@
-Analysing the dataset of netflix movie and tv shows.
+Analysis of the dataset, netflix movie and tv shows.
