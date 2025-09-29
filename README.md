@@ -18,7 +18,7 @@ This repository contains Jupyter notebooks focused on data analysis of Netflix-r
 
 - Python 3.x
 - Jupyter Notebook
-- Required Python libraries (see individual notebooks for requirements)
+- Required Python libraries (pandas, numpy, seaborn, and matplotlib)
 
 ### Setup
 
